@@ -7,3 +7,5 @@ function Article(options){
 Article.prototype.update = function(){
     
 }
+
+
