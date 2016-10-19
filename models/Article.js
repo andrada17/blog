@@ -7,5 +7,5 @@ function Article(options){
 Article.prototype.update = function(){
     
 }
-
+//am adaugat o linie pentru feature_1
 
